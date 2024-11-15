@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Creating\ a\ class\ to\ model\ a\ student\r\n\r\n\ @author\ Vagner\ de\ Souza\r\n\ 15/11/24\r\n
+comment1.params=aName\ anAge\ anId
+comment1.target=Student(java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Student\r\n
+comment2.params=
+comment2.target=Student()
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Student\r\n
+comment3.params=aName
+comment3.target=void\ setName(java.lang.String)
+comment4.params=anAge
+comment4.target=void\ setAge(int)
+comment5.params=anId
+comment5.target=void\ setId(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=
+comment7.target=java.lang.String\ getId()
+comment8.params=
+comment8.target=int\ getAge()
+comment9.params=
+comment9.target=void\ uncrementAge()
+numComments=10
